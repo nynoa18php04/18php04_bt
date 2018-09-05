@@ -1,0 +1,27 @@
+.green{
+	font-family:Arial;
+}
+@font - face{
+	font-family: myNewFont;
+	src:url('font/Ubuntu-LI.ttf');
+}
+.green{
+	font-family:myNewFont;
+	text-align:center;
+}
+.price{
+	color:red;
+	text-align:center;
+	text-decoration:line-through;
+	text-decoration:overline;
+	text-decoration:underline;
+}
+.price-real{
+	text-align:center;
+}
+.text-demo{
+	text-transform:uppercase;
+	text-align:center;
+	font-size:36px;
+	text-shadow:4px 4px 9px #3300CC;
+}

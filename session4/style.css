@@ -1,0 +1,25 @@
+/* CSS Document */
+*{
+	padding:0px;
+	margin:0px;
+}
+@font-face{
+	font-family:myNewFont;
+	src: url(Ubuntu-LI.ttf);
+}
+.main{
+	width:200px;
+	height:250px;
+	margin:auto;
+	background-color:#0C9;
+	font-family:myNewFont;
+}
+.green{
+	font-family:myNewFont;
+	text-align:center;
+	color:red;
+}
+@font-face{
+	font-family:myNewFont;
+	src: url(Ubuntu-LI.ttf);
+}
